@@ -1,0 +1,306 @@
+Ultimate Guide to Cinematic Lighting Pt. 2 — How to Light Subjects and Locations
+URL: https://www.youtube.com/watch?v=N9mPQBZe06s
+Video ID: N9mPQBZe06s
+Channel: StudioBinder
+Uploaded: 2023-03-27   Duration: 1400s
+Transcript language: en-US   Source: manual captions
+======================================================================
+
+Films are made up of sequences. Sequences are made up of scenes. And scenes are made up of shots. In previous episodes, we
+covered editing transitions, composition, and lighting fundamentals. Today, we'll focus
+on cinematic lighting and different ways to light
+subjects and their surroundings. "- Lights up." This is Episode 13
+of "The Shot List". Cinematic lighting - Part 2. Hit subscribe and
+enable notifications to get all future
+episodes of the shot list. At the end of the video,
+we'll explain how to download our free ebook
+on cinematic lighting. In part one, we laid out the
+fundamentals of cinematic lighting including the types of
+light, the qualities of light, essential terminology, and the most commonly used
+equipment when lighting a scene. In part 2, we'll provide a
+step-by-step guide to lighting a scene starting with the various styles
+and lighting setups for a subject. There are many
+ways to light a subject. It all comes down to intention. How is the subject feeling? What do we want the audience
+to understand about this character at this moment? This intention will guide
+your lighting choices and while there are countless
+ways to light a subject let's discuss the
+most popular methods. Arguably, the most common way to light
+a subject is with three-point lighting which has three light
+sources directed at the subject. A key light, fill
+light, and backlight. A key light is the primary
+and strongest light. The fill light fills in the
+shadows created by the key light. The final light in the
+three-point setup is the backlight. This light is directed at
+the subject from behind and creates a rim of light
+around the subject's edges separating them
+from the background. The fill light is usually less
+strong and more diffused. To create a low-key image,
+the fill light will be very dim or even non-existent. For a high-key or
+low-contrast image, the fill will be closer in
+strength to the key light. Negative fill is the
+process of blocking any unwanted fill light to
+increase the contrast. The difference between the fill and
+the key will affect the contrast ratio which refers to the difference
+between light and shadow in an image. This allows for a fill to
+influence the mood of a scene. Types of backlights
+include edge lights or kickers that focus on a particular
+area of the subject. And hair lights are usually angled
+down onto the subject's head to create highlights
+in the hair. Catchlights sometimes
+called eyelights are the tiny reflections of
+a light source in the eyes which help give them
+some life and depth. In this scene, from "The
+Grand Budapest Hotel" Wes Anderson and
+cinematographer Robert Yeoman employ a large key light
+hanging over the two subjects and some backlight
+provided by distant practicals. Using a diffused key light
+along with multiple dim backlights creates a high key
+image with soft lighting. "- Well, it begins as it must with
+our mutual friend's predecessor." - But the lighting on
+Mr. Mustafa changes signaling a shift in the story. "- The beloved original
+concerns of the Grand Budapest it begins of course with... The key light dims down and
+now the fill light becomes the key. Behind Mr. Mustafa,
+a hair light brightens perhaps motivated by
+the practicals on the wall. The various combinations
+and arrangements of these lights create commonly used
+subject lighting setups. Rembrandt lighting can be
+achieved through a three-point setup placing the key light slightly
+higher and dimming the fill light. creating a signature triangle of light
+on the darker side of the subject's face. Named after the light
+Rembrandt used on his subjects. Butterfly lighting also known as
+paramount lighting uses only two lights. Featuring a key light that is placed directly
+in front of the subject at a high angle. It creates a butterfly-shaped
+shadow under a subject's nose and is often used
+for glamorous shots highlighting cheekbones and
+smoothing out imperfections. Loop lighting is a
+similar approach but the light is set
+at a 45-degree angle from the subject's face and
+placed just above their eye line. Loop lighting can appear to
+lengthen the face of a subject so it's often used on actors
+with oval-shaped faces. There's also split lighting which refers
+to a key light hitting half of a subject with no fill light creating a dramatic image often
+building a feeling of ominous mystery. There is also overhead
+and underlighting. Overhead or top lighting positions
+the light over the head of the actor which can be used
+to obscure the eyes. "- Now behold how swiftly
+your brother swings his sword." - And underlighting places
+the light under the subject. Underlighting can be
+seen in classic horror films because of the unnatural-looking
+shadows on the face. Both approaches create
+distinguished shadows and can emphasize the bone
+structure of a subject's face. "- But you have actually
+excellent bone structure there I'm kind of having a hard time not
+looking at you now. Is that weird?" - But of course, some of your
+shots might contain multiple subjects. When shooting more than one
+character a cinematographer needs to consider where our
+attention needs to be directed. Are all the subjects
+equally important? Or our one or two
+meant to stand out. "- Welcome, James. It's been a long time." - Many of the general
+rules of single-subject lighting pertain to
+lighting multiple subjects. Often, each subject in the frame
+will have a key light on their face light acting as a fill. And a backlight separating
+them from the background. But this doesn't mean each subject
+needs their own set of three lights. With smart blocking and
+light positioning, one light can act as a key light for
+two or more characters. Or a key light for one character
+and a fill light for another. A similar technique is cross-key
+lighting also called back cross lighting where lights position
+behind the actors act as a key for one character
+and a backlight for the other. This is especially useful for DIY
+projects with multiple cameras and a limited number of lights. "- I didn't realize we
+were making a "Ben-Hur". - On "Elvis", cinematographer
+Mandy Walker took things a step further by pre-lighting her
+sets for 360 Degrees since she needed to work
+with lots of movement and carefully considered blocking
+for several subjects at once. But to ensure the lighting
+wasn't flat and overly generalized she had a best boy hold a portable
+LED highlight attached to a boom pole so that the main character
+would always have a glint in his eye no
+matter where he's facing. "- Imma show you what
+the real Elvis is like tonight." - Lighting subjects can
+be just half your battle. Lighting a location can
+involve more complex setups that require dozens of
+different light sources. But they all add up to this. What mood are you
+trying to establish? Cinematographers usually aim for their
+lighting to be motivated by a location. Sometimes they'll take liberties
+creating more stylized lighting. Other times they stick more closely
+to reality with naturalistic lighting. Let's look at some approaches
+for different locations starting with exterior day. Lighting exteriors during the
+day can be deceptively difficult usually a cinematographer
+is at the whim of the sun. And not all sunlight
+is created equal. Light during the golden hour is
+much less harsh than lighting at noon. And so pre-production for an outdoor shoot
+needs to be keenly aware of the time of day. For most cinematographers,
+shooting with the sun directly on a subject's
+face is generally avoided. So, often subjects will be
+placed with their backs to the sun so that the light can be
+bounced on their faces more softly and the sun can
+act as a backlight. Alternatively, on larger sets, a
+giant screen may be used to diffuse or block out the sun entirely
+to avoid overexposure which refers to too much light
+hitting the camera's sensor. For more on exposure, check out
+our videos on subject linked below. Of course, the sun may not always cooperate
+as cinematographer Gavin Finney explains. "- I think the hardest thing
+is lack of predictability. I think if it's consistent
+I just want consistency. If it's sunny I
+wanted to stay sunny. If it's cloudy I want
+it to stay cloudy. Let's look at a scene that
+takes place in full sunlight. "- Meaning in the middle of the
+desert always made me nervous. It's a scary place." - On "Casino", cinematographer Robert Richardson
+had to contend with the desert sun. At first, Richardson wanted to use
+the sun conventionally as a backlight but Martin Scorsese wanted to shoot
+the scene using two cameras at once to catch improvisation so
+Richardson's plan went out the window. Instead, only Nikki has a backlight
+while Sam is directly in the sun. "- You said, I'm
+bringing heat on you? I gotta listen to people
+because of your f*cking sh*t. You're ordering me out? You
+better get your own f*cking army, pal. - I didn't do anything..." - According to Richardson, 'The result
+was a far more saturated visual look, pulling and using the
+blues of the desert sky in strong contrast to the almost
+white, dry-lake feel of the landscape. On "The Revenant", director of
+photography Emmanuel Lubezki used the low sun of a
+Canadian winter to his advantage shooting with as much
+natural light as possible. To do this he shot on digital
+cameras the ARRI Alexa M and XT. This allowed more flexibility
+with the ever-changing light since it could shoot at a high ISO
+with almost no detectable grain. For Lubezki, his lighting strategy
+entirely relied on the time of day. At 1 pm in bright
+sunshine there would not be anything of any interest
+in terms of atmosphere but at 4 30 PM when the sun
+disappeared behind a mountain the same location would
+then look mysterious. Lubezki's digital
+imaging technician or DIT needed to constantly be
+updating the camera's Iris settings to keep brightness
+continuity from shot to shot. Having little control
+over light on set also meant that the coloring
+process was more involved. Lubezki worked with Steve Scott to darken backgrounds
+and lighten faces in posts. "The Revenant" cinematography shows that
+you don't need massive expensive lights to combat the sun
+when shooting outside. If you use location and
+time to your advantage, the sun can do the work for you. But this isn't the case when
+shooting exteriors at night. When shooting outside
+cinematographers are tasked with creating light that doesn't
+feel unnaturally bright but also avoids underexposure from too
+little light reaching the camera's sensor making the image indiscernible. Of course, night exteriors
+can take a variety of forms from a dark forest
+to a bustling city. In a rural setting, a cinematographer
+will often establish a base light. A non-directional light that makes sure
+nothing is completely lost in black shadows. This allows colorists to have more
+control over shadows in post-production. To achieve moonlight DPs
+will often use moon cubes a large box filled
+with heavy diffusers. Or for an even larger area, a
+Musco light may be employed. Simulating moonlight also means giving
+your lights a cooler color temperature. "- I want to go back there." - Moonlight tends to
+be around 4100 Kelvin. If a cinematographer wants certain elements
+in the background to be more visible they can also use specials smaller lights that
+are hidden in frame. Usually, a soft light will also
+be applied on the subjects but occasionally more directional equipment
+may be used for a more stylized look. "Prey" relies heavily
+on nighttime exteriors. To achieve a soft moonlight look director of
+photography Jeff Cutter used softboxes with
+18 Skypanel 360s. The crew then hoisted the lights on
+80-foot lifts to achieve a high angle. For key lights, Cutter
+would often use balloons which were smaller and more
+mobile but still very diffused. To get a cyan color
+that mimic the moon, the color temperature on the lights was
+set to between 6,000 and 8,000 Kelvin. This resulted in a deep
+blue which was corrected in post-production to
+look slightly greener. Many shots utilized firelight. Cutter augmented the
+natural warm glow of the fire with tungsten
+incandescent lights which have a warm color
+temperature to match the flames. But Cutter ensured the blue
+moonlight didn't disappear in these shots adding blue to
+smoke and shadows. But you don't have to rely on massive light
+rigs to pull off your nighttime shots. In "The Witch", Robert
+Eggers and DP Jaron Blaschke opted to shoot on a digital
+camera ARRI Alexa Plus 4x3. In order to shoot in much darker
+contexts and use the natural moonlight. According to Blashke shooting with
+natural light was '...a responsibility. The actors are all in these
+really period-accurate costumes and we have sets made
+with traditional techniques... ...to then put out Kino Flo
+would just be a betrayal.' Any shadows that resulted from
+the technique only add to the horror. But you aren't always
+going to be shooting outside which leads us to interior day. Shooting inside usually means
+having more control over the light. Artificial lights can
+always be turned off. This means that lighting
+can often be more nuanced and because the audience
+expects artificial lighting a cinematographer
+can use practicals lights that appear in a frame. Because of this, the
+quality and source of light in interior day scenes
+can vary drastically. From scenes that rely on window
+light like this one from "Her". To scenes where exterior
+light is barely present at all. "- Mark.
+- He's wired in. - Sorry.
+- He's wired in. - Is he?
+- Yes." - For "The Whale", DP Matthew
+Liberty decided on the latter. Lighting the interior sparsely to match the
+dire mood of the film and its protagonist. Liberty shot on a Sony Venice which could
+shoot at low light with an ISO of 2500. This allowed him to light primarily
+using practical lights like lamps which don't emit as much
+illumination as film lights. Using practicals also meant that
+Liberty was lighting from the floor leaving much of the house
+in pockets of shadows. "- No. No. Without this thing... Stand up and walk over here. - I can't really.
+- Shut up. - Come over here." Roger Deakins  meanwhile has shot daytime
+interior that have almost no indoor lights. In this scene from "Sicario", Deakins lit
+the interior solely through the windows. He used T12 fresnels to create
+the feeling of harsh sunlight while 2K blondes also provided
+a flat fill light to the scene. "- FBI! Don't move!" - Smoke and dust meanwhile
+act as natural diffuses and allow Deakins to
+employ volumetric lighting. A technique that gives light
+shape like the beams in the hallway. By lighting an interior almost
+completely from the outside, Deakins emphasizes that the building
+is abandoned and only has one use. Lighting strategies change
+when shooting interiors at night. Interior night lighting relies
+even more on artificial light since there's no sun
+coming in from the windows. Interior light can
+take many forms from the warmth and
+light in "Barry Linden" to the pale fluorescence
+in "Chungking Express". In this basement scene
+from "Inglorious Bastards", there is very
+little outside light. Cinematographer
+Robert Richardson created a baseline by hanging
+tungsten bulbs from the ceiling which were diffused
+with two layers of muslin. As the tension in
+the scene escalates the lighting grows
+more dramatic. Richardson added
+park and top lights and backlights which are
+more harsh and directional. The harsh top light increased
+the contrast of the shot. And the backlight further removed the
+principal actors from their backgrounds. "- Well, appear there's only
+one thing left you can do. - And what would that be? - Stigsel.
+- Say 'auf wiedersehen' to your nazi balls." - The lighting then changes once
+more when the shootout begins becoming even more
+directional through the smoke. Through a gradual
+change in lighting, Richardson was able to enhance
+the dramatic beats of the scene. On "Eyes Wide Shut", Stanley Kubrick and
+cinematographer Larry Smith opted to use window light
+to create a stylized look exaggerating the difference
+between interior light and moonlight by increasing their
+difference in color temperature. Most of the interior nighttime apartment
+scenes were lit with practical lights which naturally have a
+warm color temperature. This orange light was contrasted with
+a deep blue coming in from the window. As Larry Smith explains, 'The
+blue we used was very saturated, much bluer than natural
+moonlight would be, but we didn't care about that- we just went for a hue
+that was interesting.' "- Ellis. It's okay. It's okay." - The blue color was obtained
+with open-faced clear glass arcs. These lights were
+also quite directional and created strong beams that were
+picked up by shooting on a t 1.3 stop and using a Tiffen LC1 filter. Both camera elements gave
+the interior lighting a soft glow. Smith heightened the color
+contrast in his close-ups. Depending on the desired color,
+he would use blue Chinese lanterns or he would dim the practicals
+which made them even warmer. As Smith notes, 'Most of
+the movie is at either extreme. Either very rich and warm, or very blue and cold.' Kubrick and Larry Smith's
+work on "Eyes Wide Shut" shows us that nighttime interiors
+can have very different color palettes and it all depends on the nature
+of the room and the desired effect. "- Bill, I have seen one
+or two things in my life. But never, never anything like this. Of course, there are exceptions to
+every norm we've laid out in this video. Cinematographers prove again and
+again that rules are meant to be broken. Abiding by rules or not lighting is one of the most
+important elements of any film. With the right lighting
+tools and setup from subject to
+subject, to set to set a shot can go from good to unforgettable. Tell us some of your favorite lighting
+examples in the comments below. In the description, you'll find a link to
+download an e-book on cinematic lighting covering everything
+from this two-part series. That's all for now. Until next time remember
+the sunlights never go out.

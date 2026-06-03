@@ -285,6 +285,132 @@ do NOT add <off-frame objects>; no clean-render/HDR/oversaturated; no rearrangin
 | Model adds a door/chairs not in view | List only visible objects; ban the off-frame ones by name |
 | Sofa/monitor facing wrong | State FACING explicitly in room terms (box can't show it) |
 | Red annotation boxes painted into image | Ban drawing the labels/dots/leader lines |
+| Renders a flat frontal wall instead of the diagonal | Camera & perspective block: corner % + which wall is left/right half |
+| Phantom window on a solid wall | "side walls SOLID, only ONE glass wall"; ban glass/mullions on side walls |
+| Multiplies objects (iMacs/sofas/chairs) | exact count + "no more" + end-state; protect the lookalikes you keep |
+| Two tables parallel, want perpendicular | give each a NAMED axis direction, not the word "perpendicular" |
+| Door wrong color / position | specify material ("wooden warm-brown, not concrete") + landmark relationship |
+| Two ducts bunched together | separate with explicit positions, or keep one canonical duct |
+| Style ignored from several reference images | combine refs into ONE grid; point new views at the grid of finished ones |
+| Style drifts across the finished set | uniform regrade pass; preserve content AND the sun rays |
+| Zoom won't match the wireframe | absolute framing targets (% + "~9 panes visible"); NEVER say "previous attempt" |
+| Edit over-removes / over-reaches | loose mask, protect-list, split into single-element passes |
+
+---
+
+# PART 2 — Generation & Editing Playbook
+
+Everything below was learned by actually generating a full 9-view location in Nano
+Banana Pro, editing it, and fixing style drift. Part 1 builds the wireframes; Part 2
+is how you drive the image model with them.
+
+## The loop
+```
+wireframe (per view)  +  style/appearance grid
+        │
+        ▼
+   write paired prompt  ──►  generate
+        │
+        ▼
+   inspect → targeted EDIT / INPAINT the specific wrong thing
+        │
+        ▼
+   add the approved render to the appearance grid (location becomes self-consistent)
+        │
+        ▼
+   repeat for all views → final UNIFORM REGRADE pass → assemble grid
+```
+You stay in the loop; each render feeds the next. Don't try to one-shot all views.
+
+## Anatomy of a per-view prompt (the template that worked)
+1. **Image roles.** `IMAGE 1` = wireframe — geometry/camera ONLY, "carries no
+   color/texture/light; its red labels are annotations you must NOT draw."
+   `IMAGE 2 (+3)` = photo/grid — ALL appearance. Frame the task as *"same room,
+   same camera and film as IMAGE 2 — render another frame, indistinguishable in style."*
+2. **CAMERA & PERSPECTIVE block** (see below) — the single biggest fix.
+3. **Objects** — only the ones computed visible, each with: **frame % (left/top)**,
+   **depth (near/far)**, **FACING/orientation in room terms**, neighbor relations.
+4. **Depth order** near→far.
+5. **Lighting** (per camera direction) + **Style/mood** (match the grid).
+6. **Bans** — ignore annotations; no off-frame objects (named); no glass on solid
+   walls; exact counts.
+
+## The CAMERA & PERSPECTIVE block (most important addition)
+For any diagonal/corner view the model defaults to a **flat, frontal, symmetric
+wall**. You must forbid it and pin the geometry:
+- State it's a "DIAGONAL CORNER VIEW, NOT a flat frontal wall."
+- Compute and give the **vertical wall-corner seam position (% across)** and its
+  top/floor %.
+- Say which wall fills the **LEFT half** and which the **RIGHT half**.
+- Say where the windows are (behind / left / right) so flare lands correctly.
+Compute the corner with the same pinhole projection used for labels.
+
+## Lighting by camera direction
+- **Toward the windows** → contre-jour, sun starburst flare in frame, dim backlit room.
+- **Away from windows** → windows behind camera, NO flare in frame, lit from behind,
+  shadows stretch away from the camera.
+- **Side-lit** → windows off to one side; call out the **window-grid light pattern
+  cast across solid concrete walls** (a signature of this look).
+
+## Object-level pitfalls → how to pin them
+- **Counts**: exact number + "no more" + the **end state** ("exactly TWO iMacs, none
+  elsewhere"). Models love to multiply.
+- **Orientation between two objects**: never say "perpendicular" — give each object a
+  **named axis** ("the desk recedes into depth; the coffee table's long axis runs
+  left-to-right across the frame"). Also fix it in the 3D model so the wireframe agrees.
+- **Facing**: state per object (sofa back-to-wall + seat toward X; monitor screens
+  face/away; dining-table long axis; duct vent points down).
+- **Material/colour**: e.g. "the door is WOODEN warm-brown, NOT grey concrete."
+- **Position vs a landmark**: e.g. "door centred directly BEHIND the desk, not between
+  the chairs." Add a front-to-back **relationship line** ("desk → wooden door → duct").
+- **Phantom windows**: "both side walls are SOLID concrete; the only glass is the wall
+  ahead/behind; do NOT add glass or mullions to side walls." (Recurring.)
+- **Duplicate ducts**: there's usually one canonical duct; if a view truly shows two,
+  separate them with explicit positions and "NOT close together."
+
+## Style reference strategy
+- **Several separate style photos get under-weighted/ignored.** Combine into ONE
+  grid image (2×2 / 3×2 / 3×3).
+- **Use your own approved renders as the appearance reference** — as you build the
+  location, point each new view at a grid of the finished ones; the place becomes
+  self-consistent.
+- Build grids **seamlessly with PIL** (center-crop each to a common aspect, then tile).
+  matplotlib subplots letterbox and leave white gaps.
+
+## Editing & inpainting in Nano Banana Pro (researched + tested)
+- NBP uses **semantic segmentation** — name the object/region; you don't need a tight
+  pixel mask.
+- **Reference images by role**: `[image1]` = base/the one you edit, `[image2]` =
+  content/placement reference, `[image3]` = a specific element. Spell out each role.
+- Write edits as a **bullet list** with an explicit **preserve-list** (lock everything
+  outside the change).
+- **Loose mask** (don't hug the object), **lock the seed**, render at **4K**.
+- **Mark-on-a-copy trick**: scribble arrows on ONE copy as a pointer, but EDIT the
+  clean copy; the output must contain NO marks. Image order matters (base = the image
+  you edit).
+- **Removal**: pin the target by position, **protect the lookalikes you keep**, and
+  state the **remaining count** — this stops cascade-deletion of similar objects.
+- **Add-back / count fixes**: state the exact **end-state count and arrangement**.
+- If one combined edit over-reaches, **split into single-element passes** (or mask
+  just that element).
+
+## Final uniform regrade (kills style drift)
+After all views exist, the set will have drifted in colour/exposure. Do ONE regrade:
+- "Re-grade all panels into one look AND match each other; change ONLY colour, white
+  balance, tone, exposure and film texture; preserve all content, composition and
+  the grid layout."
+- **Preserve content INCLUDING the sun rays/flares per panel** — keep them where they
+  are; do NOT add flares to flare-free (away-from-window) views.
+- **Describe the target grade in words** (carries even without a style image): muted
+  desaturated **cool grey-green/teal** cast, slightly **underexposed/dim**, deep but
+  **soft milky lifted greenish blacks**, blown windows + bloom + starburst, fine film
+  grain, soft haze, mild vignette, ~5400K, gritty lived-in — plus negatives (not
+  glossy / clean / HDR / real-estate / vivid / 3D-render).
+
+## Grid tooling
+- Use **PIL** for montages: center-crop to a common aspect, resize to a uniform cell,
+  paste edge-to-edge → no white space. Swap/replace cells by passing an explicit
+  ordered filename list.
 
 ---
 

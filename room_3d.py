@@ -97,7 +97,7 @@ for cx in (4.2, 5.5, 6.8):
 # sofas + coffee table (against west arch wall)
 box(0.2, 1.5, 3.6, 7.1, 0, 0.7, c="#cfc6b4", lw=1.0)
 box(1.5, 4.3, 6.1, 7.1, 0, 0.7, c="#cfc6b4", lw=1.0)
-box(1.7, 3.2, 4.4, 5.3, 0, 0.4, c="#6b4f33", lw=1.0)
+box(2.0, 2.9, 3.9, 5.5, 0, 0.4, c="#6b4f33", lw=1.0)   # long axis along Y -> perpendicular to desk (long X)
 # dining table + chairs (along north windows)
 box(3.0, 7.0, 9.4, 11.2, 0, 0.75, c="#4a3526", lw=1.0)
 for cx in (3.4, 4.8, 6.2):
@@ -114,7 +114,7 @@ LABELS = [
     ((0.45, 8.7, 1.0),  "bookshelf"),
     ((1.0, 4.35, 2.5),  "duct + vent"),       # vent ~z2.45
     ((0.9, 5.6, 0.4),   "sofas"),             # sofa z0-0.7
-    ((2.4, 4.85, 0.25), "coffee table"),      # table z0-0.4
+    ((2.45, 4.7, 0.25), "coffee table"),      # table z0-0.4 (long axis Y)
     ((5.6, 2.97, 0.82), "desk + monitors"),   # on the desktop/monitor base
     ((5.5, 1.78, 0.55), "office chairs"),     # chair z0-1.05
     ((4.9, 0.06, 1.0),  "DOOR"),              # door z0-2.1

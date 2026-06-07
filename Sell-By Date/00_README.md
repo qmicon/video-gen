@@ -30,6 +30,7 @@ Built under the repo's guides:
 
 | File | Contents |
 |---|---|
+| `10_Scripting_Blueprint.md` | **START HERE** — master process: spine, episode template, all rules, reference canon |
 | `01_Logline_and_Concept.md` | Logline, controlling idea, tone, format |
 | `02_Characters.md` | Drew (lead), Kai, Margo — Who/What/Where/Want + voice map |
 | `03_World_and_Rules.md` | Device, selling mechanic, the erasure engine, product-placement model, beat sheet |

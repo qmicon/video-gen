@@ -1,6 +1,6 @@
 # EP 1 — "COLD CALL"
 
-*Spec screenplay (per `../spec-screenplay.md`), ~90 sec, vertical. Dialogue checked against `07_Dialogue_Blueprint.md`; on-screen text against `08_OnScreen_Text_Blueprint.md`. Self-contained episode — not a "pilot."*
+*Spec screenplay (per `../spec-screenplay.md`), **4:3 horizontal** (landscape, near-square). Dialogue checked against `07_Dialogue_Blueprint.md`; on-screen text against `08_OnScreen_Text_Blueprint.md`. Self-contained episode — not a "pilot."*
 
 **Structure:** accidental first sale → period customer pays huge → customer killed mid-reorder → Drew flees in panic → the margin lands, panic flips to greed → he aims at a new, safer market and the series engine launches.
 
@@ -26,32 +26,77 @@ EXT. MUDDY BATTLEFIELD - DAY
 
 Drew tumbles out of a glowing tear and face-plants in the mud.
 Clashing steel, screaming men, a burning banner. He still grips
-a can of energy drink.
+a can of energy drink. He scrambles up, turning in circles,
+refusing to believe it.
 
 ON SCREEN: I went back in time and sold an energy drink
            for a bag of gold ($20K).
 
-A horse THUNDERS past, inches from his head.
-
                     DREW
-          What the fuck.
+          This is a set. This is a movie set —
+          somebody yell cut. Where's the—
 
-A huge ARMORED COMMANDER — bloodied, gasping — grabs Drew by the
-collar, rips the can from his hand, and SHOVES him down. Drew
-lands hard on his backside in the mud.
-
-The Commander looms over him, holding up the can.
+A huge ARMORED COMMANDER — bloodied, gasping — seizes Drew by the
+collar and lays a sword across his throat.
 
                     COMMANDER
-          What is this?
+          I know every man who marches under my
+          banner. I have never seen your face. So —
+          a spy crept from the enemy's camp, or a
+          rat come to rob the dead? Which?
+
+The blade bites. A bead of blood runs down Drew's neck. Behind
+the Commander, a man takes a spear and drops — real, wet, final.
+Drew touches his neck, looks at the red on his fingers. The
+denial dies.
 
                     DREW
-          (from the ground)
-          ...Energy drink.
+          (quiet, horrified)
+          ...That's real. That's a real sword.
+          This is — oh god. This is real.
 
-The Commander chugs it. His eyes snap wide open. He tears a
-pouch from his belt and hurls it — Drew catches it against his
-chest.
+A beat. The blade presses harder. And somewhere under the terror,
+the closer wakes up.
+
+                    DREW (CONT'D)
+          (fast, then smoothing out)
+          Wait. Wait — you're right not to trust me.
+          I'm not your man, and I'm not theirs. I'm a
+          merchant. From a land far past your sea —
+          farther than your maps go. I crossed the
+          whole world to find one commander worth
+          giving this to.
+
+                    COMMANDER
+          (blade still up)
+          ...To give what.
+
+                    DREW
+          (holds up the can like a relic)
+          Power. It's a power drink. One swallow and
+          a spent man fights like ten fresh ones.
+          Where I'm from, kings pay their own weight
+          in gold for a single sip. I carried it
+          across the earth — for you.
+
+The Commander studies him. No fool. He lowers the sword, lets go
+of Drew's collar, and steps back. He nods at the can.
+
+                    COMMANDER
+          Then you drink. First.
+
+Drew swallows. He cracks the can — HISS — and drinks, deep,
+selling every gulp. Wipes his mouth. Doesn't fall over dead.
+
+                    DREW
+          (gasping it out like a man who just felt
+          lightning)
+          ...That's a hundred horses. Right there.
+
+He holds it out. The Commander snatches it and drinks. Cold.
+Fizz. Caffeine into a body that's never met it. His exhaustion
+falls off him like a dropped cloak. He tears a pouch from his
+belt and hurls it — Drew catches it against his chest.
 
                     COMMANDER
           More. Bring me a hundred. Bring me—
@@ -59,8 +104,9 @@ chest.
 A RIDER sweeps through. A blade flashes. Blood sprays across
 Drew's face. The Commander drops.
 
-Drew freezes, dripping. Then scrambles backward through the mud,
-staggers up, and dives headfirst into the glowing tear.
+Drew freezes, dripping. Then he reels back, falls into the mud,
+scrambles backward through it, staggers up, and dives headfirst
+into the glowing tear.
 
 INT. AGENCY LOFT - CONTINUOUS
 
@@ -154,4 +200,4 @@ RIDER — an enemy horseman; ends the sale.
 ---
 
 ## Production note
-"What the fuck" reads great but Meta/TikTok may suppress or demonetize it. Options at shoot: mute/bleep, trim to "What the—" as he's grabbed, or keep for an uncensored cut.
+**Graphic-violence sensitivity.** Meta/TikTok may suppress or demonetize visible blood and on-screen death — here: the sword at Drew's throat, the blood bead on his neck, the soldier speared in the background, and the blood spray when the Commander is killed. Plan two cuts at shoot/edit: a **softer platform cut** (imply the spear-death in soft background or off-frame, reduce blood, stay quick on the neck) and a bolder **uncensored cut**. Decide per platform.

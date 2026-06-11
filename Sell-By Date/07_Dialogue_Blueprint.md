@@ -68,6 +68,9 @@ A plain consequence names a **picturable, specific** outcome:
 - **The Draper reframe** — object → opportunity/feeling.
 - **The cut-off** — kill a line mid-sentence ("Bring me a—" + blade).
 - **The grand overreaction** — period guest treats a small thing as world-ending.
+- **Denial-before-belief** — the impossible is met with a safe explanation first (*"This is a movie set, somebody yell cut—"*), then the truth breaks through.
+- **The poison test** — the wary customer makes the seller prove it: *"You drink. First."* (motivates the demo, kills the "why drink an unknown thing" hole).
+- **Cover-story double-duty** — one lie that both *sells* and *explains the liar's presence* (*"I'm a merchant from a land past your maps"* = the pitch **and** the answer to "who are you").
 
 ---
 
@@ -78,6 +81,48 @@ A plain consequence names a **picturable, specific** outcome:
 - Causes the next beat?
 - Funny from character/situation, not a quip?
 - Specific consequence named (no vague abstraction)?
+- **POV-true?** (uses only what this character can actually perceive/know — §6.1–6.2)
+- **Honest-reaction-first?** (when the impossible hits, denial/terror precedes the quip — §6.3)
+- **Action earned?** (every physical action motivated by real state, not plot convenience — §6.5)
+
+---
+
+## 6. Grounding & psychology — inhabit the character
+*(Added from the Ep1 battlefield pass. The five laws keep a line **clean**; these keep it **true**.)*
+
+Before writing any character's line, sit in their head and ask what that person — with only what they can see and know — would actually think and say. **Plot convenience is the enemy.** If a beat exists because the story needs it, not because the character would do it, the audience feels the seam.
+
+### 6.1 Write from the character's real POV, not the plot's need
+React to the single most extraordinary thing *this* person is perceiving — in proportion.
+- ❌ A warlord mid-battle calmly interrogates a stranger about a beverage.
+- ✅ A warlord seizes an unidentified non-combatant in his kill zone as a *spy* — the threat is what he reacts to first; the can comes later.
+
+### 6.2 Limit every character to what they can perceive
+Never let a reaction lean on information the character doesn't have.
+- The Commander never sees Drew come *through* the tear → he can't react to "magic" or a portal. He sees a strange, terrified man in wrong clothes. Write from **that**.
+
+### 6.3 Honest reaction first, character/joke second
+A real person meeting the impossible doesn't quip — they **deny and pattern-match to safety** (a dream, a film set, a prank), then the truth breaks through, then their character reasserts. Don't skip the human layer — the gap between raw terror and the character's reflex (Drew's terror → sales) is where the comedy lives.
+- Sequence: **denial → undeniable sensory proof → belief → character engine fires.**
+- Ep1: *"This is a movie set, somebody yell cut—"* → the blade draws real blood, a man dies behind him → *"...That's real. This is real."* → the closer wakes up.
+
+### 6.4 Verbalize the thinking
+Externalize internal reasoning as dialogue so the audience *hears* the logic instead of inferring it from staging.
+- ❌ (silent collar-grab) *"Who are you."*
+- ✅ *"I know every man who marches under my banner. I have never seen your face. So — a spy from the enemy's camp, or a rat come to rob the dead? Which?"*
+
+### 6.5 Motivate every physical action through real state, never convenience
+If a character drinks the unknown can or hands over gold, the reason must live in their body and psychology.
+- Why drink a stranger's liquid? He's **bloodied, gasping, parched** — and he makes the stranger **drink first** (the poison test, §4). Now it's earned, not lucky.
+
+### 6.6 Make the salesman actually sell — read the customer, build the cover
+Drew's skill is real; under threat it should *fire*, not freeze. Good selling = (a) read what the customer wants and sell *that*, (b) give a story that survives scrutiny.
+- Warlord wants power/victory → Drew sells *"a power drink — one swallow and a spent man fights like ten."*
+- The cover story does **double duty** (§4): *"I'm a merchant from a land past your maps"* makes the pitch **and** answers the spy accusation (explains the strange clothes, the unknown face).
+
+### 6.7 Turn logic holes into the joke
+When the plot has a gap, don't paper over it — make the gap the gag.
+- A dead customer can't reorder → Drew reframing a one-off windfall as *"the deposit on a hundred-can account"* **is** the Draper reframe (§4), and it's funnier than a clean sale.
 
 ---
 
